@@ -5,7 +5,7 @@ session_start();
 <DOCTYPE!>
 <html>
 <head>
-	<title>IT 155</title>
+	<title>IT 137</title>
 	<meta charset="utf-8">
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -58,7 +58,7 @@ session_start();
 		</div>
 	    <?php
 	    if(isset($_POST['calc1'])){
-	    	header('location:home2.php');
+	    	header('location:home1.php');
 	    }elseif(isset($_POST['calc2'])){
 	    	header('location:home.php');
 	    }
