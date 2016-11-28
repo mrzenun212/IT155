@@ -1,0 +1,38 @@
+*{
+font-family: 'Oswald', sans-serif;
+
+}
+
+.main-banner {
+	
+   	color: white;
+	background-image: linear-gradient(to bottom, rgba(0,0,0, 0.5) 0%, rgba(0,0,0, 1) 100%), url("http://www.desktopwallpaperhd.net/wallpapers/6/6/city-reflected-buildings-wallpaper-background-web-61846.jpg");
+   	background-repeat: no-repeat;
+    	background-size: cover;
+    	padding-top:40px;
+	padding-bottom:400px;
+
+
+
+}
+
+
+.navbar{
+	margin-bottom: 0;
+}
+
+.paragraph {
+	
+   	color: white;
+	background-image: linear-gradient(to bottom, rgba(0,0,0, 0.5) 0%, rgba(0,0,0, 1) 100%), url("http://zibrato.com/wp-content/uploads/2016/01/Altessa-Building-Wallpaper-for-Desktop-Background.jpg");
+   	background-repeat: no-repeat;
+    	background-position: center;
+    	padding-top:40px;
+	padding-bottom:300px;
+
+}
+
+.footer {
+	background-color:black;
+	padding:20px;
+}
